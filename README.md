@@ -12,7 +12,8 @@ Zend Engine v4.0.26, Copyright (c) Zend Technologies
 ```
 index.php
 ```php
------------- JWT ------------eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSZXF1ZXN0Ijp7InVzZXJuYW1lIjoic2l0ZU5hbWUiLCJwYXNzd29yZCI6InNpdGVQYXNzd29yZCJ9LCJBY3Rpb24iOiJBR0xvZ2luIn0.o-6vne3DPe6rxRZnP38ORMJzCr_PkUqrwjPL_fDglkE
+------------ JWT ------------
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJSZXF1ZXN0Ijp7InVzZXJuYW1lIjoic2l0ZU5hbWUiLCJwYXNzd29yZCI6InNpdGVQYXNzd29yZCJ9LCJBY3Rpb24iOiJBR0xvZ2luIn0.o-6vne3DPe6rxRZnP38ORMJzCr_PkUqrwjPL_fDglkE
 ```
 
 
